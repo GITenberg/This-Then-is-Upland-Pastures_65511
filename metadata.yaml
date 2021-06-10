@@ -1,0 +1,23 @@
+_repo: This-Then-is-Upland-Pastures_65511
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Knapp, Adeline
+    birthdate: 1860
+    deathdate: 1909
+    gutenberg_agent_id: '52210'
+    url: http://www.gutenberg.org/2009/agents/52210
+    wikipedia: https://en.wikipedia.org/wiki/Adeline_Knapp
+description: ''
+gutenberg_issued: '2021-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65511'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: This Then is Upland Pastures
+url: http://www.gutenberg.org/ebooks/65511
